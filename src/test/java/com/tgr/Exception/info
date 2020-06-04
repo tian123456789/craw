@@ -1,0 +1,6 @@
+								Throwable
+				Exception                          Error
+	RuntimeException					VirtualMachineErrorHttpClientError		ConfigurationError  InternalError UncheckedIOException
+NullPointerException				OutOfMemoryError  			StackOverflowError
+			
+							

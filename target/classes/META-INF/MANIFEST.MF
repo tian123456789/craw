@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: tgr-video-crawler
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: tgr
+Implementation-Vendor-Id: com.tgr
+Build-Jdk: 1.8.0_212
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/tgr-video-crawler
+Created-By: Maven Integration for Eclipse
+
